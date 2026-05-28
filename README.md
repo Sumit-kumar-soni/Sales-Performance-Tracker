@@ -24,6 +24,7 @@ This project is an end-to-end data analytics solution designed to evaluate corpo
 * `Sales_Business_Queries.sql`: Highly analytical SQL queries answering core business performance questions.
 * `Sales_Performance_tracker.pbix`: The final Power BI project file containing the DAX measures and interactive canvas.
 * `Dashboard_Screenshots/`: High-resolution images of the final dashboard.
+<img width="1920" height="1031" alt="CLV_Executive_Dashboard" src="https://github.com/user-attachments/assets/3291fe5f-a9d1-4eb5-9224-2a11c64c88a4" />
 
 ---
 ## ☕ Stay Connected
